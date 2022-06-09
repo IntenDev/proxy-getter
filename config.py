@@ -16,7 +16,7 @@ ANONYMITY = {'high': '4',
 If you need to parse a proxy with a level anonymity high or average,
 you must assign '34' to the variable anonymity_level:
 anonymity_level = '34'
-where the order of the characters doesn't matter
+where the order of the characters doesn't matter.
 
 target - site that needs a proxy to be parsed (it can be an empty string)
 maxtime - max proxy response time in milliseconds
