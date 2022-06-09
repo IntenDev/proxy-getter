@@ -6,7 +6,7 @@ TYPE = {'http': 'h',
 If you need to parse http or socks5 type proxy,
 you must assign 'h5' to the proxy_type variable:
 proxy_type = 'h5'
-where the order of the characters doesn't matter
+where the order of the characters doesn't matter.
 
 
 ANONYMITY = {'high': '4',
