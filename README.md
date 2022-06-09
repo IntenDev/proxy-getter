@@ -7,6 +7,4 @@
 
 Можно как получить список добытых прокси напрямую, так и сохранить результат в файл (имя файла указывается в конфиге)
 
-Телеграм @Koshsky
-Stepic https://stepik.org/users/142796504
-Вконакте https://vk.com/Koshsky_1
+Телеграм: @Koshsky | Stepic: https://stepik.org/users/142796504 | Вконакте: https://vk.com/Koshsky_1
